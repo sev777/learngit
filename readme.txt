@@ -4,4 +4,9 @@ This is an old text .
 goodbey
 add something ik >?
 add twice:
+<<<<<<< Updated upstream
 mistake
+=======
+
+just play
+>>>>>>> Stashed changes
